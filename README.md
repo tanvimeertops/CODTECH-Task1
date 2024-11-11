@@ -21,3 +21,8 @@ Technologies Used:
 1. Selenium
 2. Junit framework
 3. Maven
+
+   Screenshot of Output
+   
+
+![Screenshot (20)](https://github.com/user-attachments/assets/e1979069-249d-43cf-9544-c1ec6da91a4c)
